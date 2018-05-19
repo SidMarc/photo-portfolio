@@ -140,11 +140,7 @@
 						$('.main.style1')
 							.scrollex({
 								mode:		'middle',
-<<<<<<< HEAD
 								delay:		10,
-=======
-								delay:		50,
->>>>>>> 2b689463b5bd93fb2772c547a9500e0b686c92fb
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
@@ -154,11 +150,7 @@
 						$('.main.style2')
 							.scrollex({
 								mode:		'middle',
-<<<<<<< HEAD
 								delay:		10,
-=======
-								delay:		50,
->>>>>>> 2b689463b5bd93fb2772c547a9500e0b686c92fb
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
